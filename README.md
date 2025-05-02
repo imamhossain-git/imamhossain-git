@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm an IT Support professional transitioning into 
 ## 🛠️ Technical Skills
 
 ### IT Support Expertise
-🛡️ Windows/Linux System Administration  
+🛡️ Windows/Linux System   
 🔧 Helpdesk Support | Troubleshooting  
-🌐 Network Fundamentals  
+🌐 Networking  
 🖥️ Hardware Maintenance  
 
 ### DevOps Learning Path
