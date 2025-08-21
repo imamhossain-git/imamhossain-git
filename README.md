@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I'm an IT Support professional transitioning into 
 ⚙️ Configuration Management  
 🔄 CI/CD Pipelines  
 
+---
+
 ## 📈 GitHub Activity
 
 <p align="center">
