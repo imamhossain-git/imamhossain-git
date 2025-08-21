@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Imam Hossain | IT Support Engineer ➡️ DevOps Learner
 
-[![GitHub followers](https://img.shields.io/github/followers/imamhossaingit?label=Follow&style=social)](https://github.com/imamhossaingit)
-[![Visitors](https://komarev.com/ghpvc/?username=imamhossaingit&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/imamhossaingit)
+[![GitHub followers](https://img.shields.io/github/followers/imamhossaingit?label=Follow&style=social)](https://github.com/imamhossain-git)
+[![Visitors](https://komarev.com/ghpvc/?username=imamhossaingit&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/imamhossain-git)
 
 Welcome to my GitHub profile! I'm an IT Support professional transitioning into DevOps, passionate about cloud technologies, automation, and infrastructure as code.
 
@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm an IT Support professional transitioning into 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imamhossaingit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamhossaingit&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imamhossain-git&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamhossain-git&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 ## 🌱 Currently Learning
